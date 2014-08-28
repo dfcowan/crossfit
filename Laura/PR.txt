@@ -1,0 +1,19 @@
+Deadlift
+Reps   LBS   Date
+----   ---   ----------
+ 7      65   2013-02-13
+
+Press
+Reps   LBS   Date
+----   ---   ----------
+ 3      60   2013-02-06
+
+Hang clean
+Reps   LBS   Date
+----   ---   ----------
+ 2      55   2013-02-16
+
+Power clean
+Reps   LBS   Date
+----   ---   ----------
+ 1      75   2013-02-16
